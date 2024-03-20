@@ -33,3 +33,31 @@ body {
     margin: 0 16px;
     font-size: 20px;
 }
+
+.escola-imagem{
+    width: 25%;
+    border-radius: 50%;
+}
+
+.qsomos{
+    height: 80vh;
+    background-image: linear-gradient(#365486,#7FC7D9);
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0px;
+    
+}
+
+.qsomos-div-conteudo{
+    width: 35%;
+    text-align: center;
+    margin-right: 60px
+
+}
+
+
+.qsomos-titulo{
+    padding: 24px 0;
+}
